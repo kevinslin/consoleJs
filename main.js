@@ -1,0 +1,1 @@
+var bond = "BOND here";
